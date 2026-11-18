@@ -662,7 +662,7 @@ how to fix it, please visit the web page mentioned above.
 
 | Система | Версія або модель | Період використання |
 |---|---|---|
-| | | |
+| Claude Code | Sonnet 5 Medium | 17.11.2026 |
 
 ### Промпти
 
